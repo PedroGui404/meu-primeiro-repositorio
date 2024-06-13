@@ -1,5 +1,10 @@
-# meu-primeiro-repositorio
-de testes
+# Meu Repositório
+Feito para Testes
 
-**Linkeidn**
-[google.com](https://google.com)
+## **Tecnologias**
+
+![JS](https://skillicons.dev/icons?i=js)
+![c](https://skillicons.dev/icons?i=c)
+![php](https://skillicons.dev/icons?i=php)
+![python](https://skillicons.dev/icons?i=python)
+
