@@ -2,4 +2,4 @@
 de testes
 
 **Linkeidn**
-[google.com]https://google.com)
+[google.com](https://google.com)
